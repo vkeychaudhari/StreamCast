@@ -15,6 +15,10 @@ namespace StreamCast.Controllers
 
         public IActionResult Index()
         {
+            // Get the server address (Host name or IP)
+            var serverAddress = $"{Request.Host}";
+            ViewBag.ServerAddress = serverAddress;
+
             return View();
         }
 
