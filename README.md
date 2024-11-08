@@ -40,3 +40,8 @@ Online Presentations: Can be used in online presentations, webinars, and trainin
 Live Demonstrations: Useful for live demonstrations where visual instructions are required, such as software demos or technical troubleshooting.
 
 StreamCast represents a robust, high-quality streaming solution, delivering smooth, real-time video and screen sharing capabilities for modern web applications.
+
+# Out Put
+![StreamCast](https://github.com/user-attachments/assets/8874044d-517b-45b1-89eb-943a8caf3dee)
+
+
